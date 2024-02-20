@@ -1,1 +1,4 @@
 # member_test
+
+foo
+
